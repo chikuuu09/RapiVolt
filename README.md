@@ -14,4 +14,4 @@ Drivers will be able to locate available charging providers, see prices, and mak
 ### Objective
 Making charging services easy-to-use and profitable for both sides of the interaction.
 
-**Development Status**: Underway 🚧
+**Development Status**: Underway 
